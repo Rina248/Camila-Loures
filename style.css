@@ -1,10 +1,10 @@
 header{
 
-    border: solid 1px purple;
+    border-bottom-right-radius: solid 1px purple;
 }
 
 body{
     color:indigo; 
-    background-color: crimson;
+    background-color: rgb(97, 13, 30);
 
 }
