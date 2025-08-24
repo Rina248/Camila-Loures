@@ -1,6 +1,9 @@
 header{
 
-    border-bottom-right-radius: solid 1px purple;
+    border-bottom: solid 1px rgb(36, 2, 36);
+    margin: 20px;
+    padding: 10px;
+    font-size: 35px;
 }
 
 body{
