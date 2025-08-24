@@ -1,3 +1,8 @@
+header{
+
+    border: solid 1px purple;
+}
+
 body{
     color:indigo; 
     background-color: crimson;
